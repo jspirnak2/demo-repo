@@ -1,3 +1,3 @@
-hello.py
+#hello.py
 
 print('hello')
